@@ -1,5 +1,8 @@
 # PantryNode's Frontend!
 
+Note: Run this seperatly for the testing and local host
+For docker go outside this folder
+
 This is the React front-end for PantryNode.
 
 ## Development
